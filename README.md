@@ -1,3 +1,5 @@
+# ATOTO has updated their website entirely, so this script no longer works. This project is now archived. You can still download the previous firmware versions using the Google Drive links below.
+
 # About
 
 I wrote a Python script called all [atoto_firmware_downloader.py](./atoto_firmware_downloader.py) that allows you to download firmware for [ATOTO's](https://www.myatoto.com/index) [CarPlay](https://en.wikipedia.org/wiki/CarPlay) radios.
